@@ -5,57 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f056629a-bee7-464d-8048-2afe35cc4cd8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/enums/USER.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/enums/USERINFO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/AccountPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/CommonPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/EventsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/RegisterPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/CukesRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/FailedRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/backend_Api/address/US010_StepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/backend_Api/address/US011api_StepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/backend_Api/login/US006_StepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/backend_Api/login/login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/uiTesting/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/uiTesting/eventsPage/US_037stepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/uiTesting/homePage/US001_StepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/uiTesting/homePage/US002_StepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/uiTesting/homePage/US003_StepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/uiTesting/homePage/US_031stepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/uiTesting/loginPage/US_035_StepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/uiTesting/loginPage/US_036.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/uiTesting/registerPage/US_034.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ApiUtilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/BrowserUtilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigurationReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/DatabaseUtilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/JSutilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/apiTesting/addressPage/US010api.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/apiTesting/addressPage/US011api.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/apiTesting/loginPage/US009api.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ui_testing/eventPage/US008.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ui_testing/homePage/US001.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ui_testing/homePage/US002.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ui_testing/homePage/US003.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ui_testing/loginPage/US005.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ui_testing/loginPage/US006.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ui_testing/loginPage/US007.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ui_testing/registrationPage/US004.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,15 +53,15 @@
       <recent name="C:\aytenmarul\CapstoneProjectSoftwareTestEngineer\src\test\resources\features\ui_testing\homePage\bosaltmalar" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Feature: US010api">
-    <configuration name="Feature: US006 (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Cucumber Java.Feature: US007">
+    <configuration name="Feature: US002" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/apiTesting/US006.feature" />
-      <option name="GLUE" value="stepDefinitions.uiTesting stepDefinitions.backend_Api" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/ui_testing/homePage/US002.feature" />
+      <option name="GLUE" value="stepDefinitions.uiTesting" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="CapstoneProjectSoftwareTestEngineer" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: US006" />
+      <option name="SUGGESTED_NAME" value="Feature: US002" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -123,14 +73,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Feature: US006" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: US007" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/apiTesting/addressPage/US006.feature" />
-      <option name="GLUE" value="stepDefinitions.uiTesting stepDefinitions.backend_Api" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/ui_testing/loginPage/US007.feature" />
+      <option name="GLUE" value="stepDefinitions.uiTesting" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="CapstoneProjectSoftwareTestEngineer" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: US006" />
+      <option name="SUGGESTED_NAME" value="Feature: US007" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -201,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Feature: US007" />
+        <item itemvalue="Cucumber Java.Feature: US002" />
         <item itemvalue="Cucumber Java.Feature: US010api" />
         <item itemvalue="Cucumber Java.Feature: US011api" />
         <item itemvalue="Cucumber Java.Feature: address" />
-        <item itemvalue="Cucumber Java.Feature: US006" />
-        <item itemvalue="Cucumber Java.Feature: US006 (1)" />
       </list>
     </recent_temporary>
   </component>
